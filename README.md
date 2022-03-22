@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilbekwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="dilbekwebdev" /> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Vue.js**
 
 - 📫 How to reach me **dilbek.webdev@mail.ru**
 <br />
